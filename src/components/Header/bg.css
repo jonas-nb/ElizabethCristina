@@ -1,0 +1,13 @@
+.bg-lis {
+  background: rgb(208, 33, 235);
+  background: linear-gradient(
+    90deg,
+    rgba(208, 33, 235, 1) 0%,
+    rgba(231, 185, 46, 1) 100%
+  );
+}
+.meuBg {
+  background-image: url('../../assets/img/bgHero.jpg');
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+}
