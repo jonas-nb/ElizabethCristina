@@ -22,7 +22,7 @@ const Nav = () => {
   if (isMobile) {
     return (
       <div className="flex items-center justify-around">
-        <img className="w-52 drop-shadow-md" src={icon} alt="" />
+        <img className="w-52 drop-shadow-md " src={icon} alt="" />
         <div>
           <div className="dropdown dropdown-end">
             <label
